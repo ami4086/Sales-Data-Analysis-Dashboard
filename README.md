@@ -1,9 +1,9 @@
-# 📊 Sales Data Analysis Dashboard (Power BI)
+#  Sales Data Analysis Dashboard (Power BI)
 
-## 📌 Objective
+##  Objective
 The objective of this project is to analyze sales data and generate meaningful insights using an interactive Power BI dashboard. This helps in understanding business performance and supporting data-driven decision making.
 
-## 📂 Dataset
+##  Dataset
 The dataset contains sales-related information such as:
 - Sales amount
 - Profit
@@ -11,23 +11,23 @@ The dataset contains sales-related information such as:
 - Product category
 - Time (monthly/yearly)
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - Power BI
 - Microsoft Excel
 
-## 🔍 Key Analysis Performed
+##  Key Analysis Performed
 - Sales performance analysis by region and category
 - Monthly and yearly sales trend analysis
 - Profit analysis and comparison
 - Identification of top-performing products
 
-## 📊 Dashboard Features
+##  Dashboard Features
 - Interactive filters (Region, Category, Time)
 - KPI indicators (Total Sales, Total Profit)
 - Visualizations including bar charts, line charts, and pie charts
 - User-friendly layout for quick insights
 
-## 📈 Key Insights
+##  Key Insights
 - Identified top-performing regions contributing to maximum sales
 - Observed trends and seasonal variations in sales
 - Highlighted categories with high/low profitability
@@ -43,7 +43,7 @@ The dataset contains sales-related information such as:
 - Dataset file 
 - Dashboard screenshots
 
-## 🚀 Conclusion
+##  Conclusion
 This project demonstrates the use of Power BI for transforming raw data into actionable insights through visualization and analysis.
 
 ## 🔗 Connect with Me
